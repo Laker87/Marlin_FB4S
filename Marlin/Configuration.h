@@ -1188,9 +1188,9 @@
 
 // @section machine
 
-#define ALL_DRV_2208
+//#define ALL_DRV_2208
 //#define FB_4S_STOCK
-//#define FB_5_STOCK
+#define FB_5_STOCK
 
 #ifdef ALL_DRV_2208
 #define USR_E0_DIR true
